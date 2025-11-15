@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/PLTC.iml" filepath="$PROJECT_DIR$/.idea/PLTC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/pltc.main.iml" filepath="$PROJECT_DIR$/.idea/modules/pltc.main.iml" />
     </modules>
   </component>
 </project>
